@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashreddy-ops&show_icons=true&locale=en" alt="akashreddy-ops" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashreddy-ops&" alt="akashreddy-ops" /></p>
-
