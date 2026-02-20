@@ -41,7 +41,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,mysql,git,linux,aws,bootstrap&theme=dark" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akashreddy-ops" />
 </p>
 
 ---
