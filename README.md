@@ -64,3 +64,18 @@
 </p>
 
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=akashreddy-ops&show_icons=true&theme=radical"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashreddy-ops&theme=radical"/>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashreddy-ops&layout=compact&theme=radical"/>
+</p>
