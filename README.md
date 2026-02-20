@@ -50,7 +50,7 @@
 <table align="center">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=akashreddy-ops&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akashreddy-ops"/>
 </td>
 <td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashreddy-ops&theme=radical"/>
