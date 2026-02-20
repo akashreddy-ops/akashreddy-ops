@@ -47,24 +47,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akashreddy-ops&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashreddy-ops&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashreddy-ops&layout=compact&theme=radical"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
-
 <table align="center">
 <tr>
 <td>
@@ -79,3 +61,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashreddy-ops&layout=compact&theme=radical"/>
 </p>
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+
